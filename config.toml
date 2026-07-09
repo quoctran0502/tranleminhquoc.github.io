@@ -1,6 +1,6 @@
-baseURL = "https://quoctran0502.github.io/"
+baseURL = "https://quoctran0502.github.io/tranleminhquoc.github.io/"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
