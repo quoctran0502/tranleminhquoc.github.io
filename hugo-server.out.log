@@ -55,3 +55,11 @@ Change detected, rebuilding site (#6).
 Source changed /5-workshop/_index.vi.md
 Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
 Total in 409 ms
+
+Change of config file detected, rebuilding site (#7).
+2026-07-09 16:29:34.054 +0700
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Rebuilt in 3172 ms
+
+Change of config file detected, rebuilding site (#8).
+2026-07-09 16:29:39.398 +0700
