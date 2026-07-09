@@ -1,0 +1,2659 @@
+Watching for changes in D:/TTTN/AWS-FCAJ/archetypes, D:/TTTN/AWS-FCAJ/content/{1-Worklog,2-Proposal,3-BlogsPosted,4-EventParticipated,5-Workshop,...}, D:/TTTN/AWS-FCAJ/layouts/{partials,shortcodes}, D:/TTTN/AWS-FCAJ/static/{css,fonts,images}, D:/TTTN/AWS-FCAJ/themes/hugo-theme-learn/archetypes, D:/TTTN/AWS-FCAJ/themes/hugo-theme-learn/i18n, D:/TTTN/AWS-FCAJ/themes/hugo-theme-learn/layouts/{_default,partials,shortcodes}, D:/TTTN/AWS-FCAJ/themes/hugo-theme-learn/static/{css,fonts,images,js,mermaid,...}
+Watching for config changes in D:\TTTN\AWS-FCAJ\config.toml
+Start building sites … 
+hugo v0.163.3-4d22555aebf458d5d150500c9ac4bee5b24cf0d3+extended windows/amd64 BuildDate=2026-06-18T16:18:24Z VendorInfo=gohugoio
+
+
+                  │ EN  │ VI  
+──────────────────┼─────┼─────
+ Pages            │  82 │  81 
+ Paginator pages  │   0 │   0 
+ Non-page files   │   0 │   0 
+ Static files     │ 183 │ 183 
+ Processed images │   0 │   0 
+ Aliases          │   1 │   0 
+ Cleaned          │   0 │   0 
+
+Built in 7458 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0) 
+Press Ctrl+C to stop
+
+Change detected, rebuilding site (#1).
+2026-07-06 08:45:10.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#2).
+2026-07-06 08:45:11.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#3).
+2026-07-06 08:45:13.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#4).
+2026-07-06 08:45:17.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#5).
+2026-07-06 08:45:20.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#6).
+2026-07-06 08:45:23.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#7).
+2026-07-06 08:45:27.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#8).
+2026-07-06 08:45:29.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#9).
+2026-07-06 08:45:31.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#10).
+2026-07-06 08:45:49.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#11).
+2026-07-06 08:45:51.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#12).
+2026-07-06 08:45:57.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#13).
+2026-07-06 08:46:00.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#14).
+2026-07-06 08:46:02.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 33 ms
+
+Change detected, rebuilding site (#15).
+2026-07-06 08:46:04.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#16).
+2026-07-06 08:46:07.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#17).
+2026-07-06 08:46:09.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#18).
+2026-07-06 08:46:17.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#19).
+2026-07-06 08:46:18.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#20).
+2026-07-06 08:46:20.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#21).
+2026-07-06 08:46:26.277 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#22).
+2026-07-06 08:46:28.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#23).
+2026-07-06 08:46:30.278 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#24).
+2026-07-06 08:46:36.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#25).
+2026-07-06 08:46:38.277 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#26).
+2026-07-06 08:46:40.277 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#27).
+2026-07-06 08:46:46.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#28).
+2026-07-06 08:46:48.778 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#29).
+2026-07-06 08:46:50.777 +0700
+Source changed /1-worklog/1.1-week1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#30).
+2026-07-06 08:47:04.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#31).
+2026-07-06 08:47:04.777 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#32).
+2026-07-06 08:47:30.277 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 74 ms
+
+Change detected, rebuilding site (#33).
+2026-07-06 08:47:36.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 34 ms
+
+Change detected, rebuilding site (#34).
+2026-07-06 08:47:38.277 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#35).
+2026-07-06 08:47:40.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#36).
+2026-07-06 08:47:42.777 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#37).
+2026-07-06 08:47:45.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 32 ms
+
+Change detected, rebuilding site (#38).
+2026-07-06 08:47:51.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 33 ms
+
+Change detected, rebuilding site (#39).
+2026-07-06 08:47:54.777 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#40).
+2026-07-06 08:47:56.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#41).
+2026-07-06 08:47:58.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#42).
+2026-07-06 08:48:01.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 33 ms
+
+Change detected, rebuilding site (#43).
+2026-07-06 08:48:03.777 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#44).
+2026-07-06 08:48:09.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 34 ms
+
+Change detected, rebuilding site (#45).
+2026-07-06 08:48:12.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#46).
+2026-07-06 08:48:13.777 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#47).
+2026-07-06 08:48:16.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#48).
+2026-07-06 08:48:18.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 34 ms
+
+Change detected, rebuilding site (#49).
+2026-07-06 08:48:20.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#50).
+2026-07-06 08:48:22.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#51).
+2026-07-06 08:48:27.779 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 33 ms
+
+Change detected, rebuilding site (#52).
+2026-07-06 08:48:29.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 35 ms
+
+Change detected, rebuilding site (#53).
+2026-07-06 08:48:30.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#54).
+2026-07-06 08:48:32.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#55).
+2026-07-06 08:48:35.278 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 34 ms
+
+Change detected, rebuilding site (#56).
+2026-07-06 08:48:37.778 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#57).
+2026-07-06 08:48:39.777 +0700
+Source changed /1-worklog/1.1-week1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#58).
+2026-07-06 08:49:18.777 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#59).
+2026-07-06 08:49:19.777 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#60).
+2026-07-06 08:49:22.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#61).
+2026-07-06 08:49:26.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#62).
+2026-07-06 08:49:29.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#63).
+2026-07-06 08:49:31.779 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#64).
+2026-07-06 08:49:34.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#65).
+2026-07-06 08:49:41.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#66).
+2026-07-06 08:49:43.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#67).
+2026-07-06 08:49:46.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#68).
+2026-07-06 08:49:50.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#69).
+2026-07-06 08:49:54.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#70).
+2026-07-06 08:49:55.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#71).
+2026-07-06 08:49:57.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#72).
+2026-07-06 08:50:10.279 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#73).
+2026-07-06 08:50:13.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#74).
+2026-07-06 08:50:14.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#75).
+2026-07-06 08:50:17.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#76).
+2026-07-06 08:50:21.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#77).
+2026-07-06 08:50:22.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#78).
+2026-07-06 08:50:24.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#79).
+2026-07-06 08:50:29.777 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#80).
+2026-07-06 08:50:32.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#81).
+2026-07-06 08:50:34.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#82).
+2026-07-06 08:50:35.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#83).
+2026-07-06 08:50:41.279 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#84).
+2026-07-06 08:50:45.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#85).
+2026-07-06 08:50:46.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#86).
+2026-07-06 08:50:49.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#87).
+2026-07-06 08:50:52.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#88).
+2026-07-06 08:50:55.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#89).
+2026-07-06 08:51:01.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#90).
+2026-07-06 08:51:03.777 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#91).
+2026-07-06 08:51:04.779 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#92).
+2026-07-06 08:51:10.278 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#93).
+2026-07-06 08:51:12.279 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#94).
+2026-07-06 08:51:13.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#95).
+2026-07-06 08:51:16.277 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#96).
+2026-07-06 08:51:17.778 +0700
+Source changed /1-worklog/1.2-week2/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#97).
+2026-07-06 08:51:31.277 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#98).
+2026-07-06 08:51:31.777 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#99).
+2026-07-06 08:51:34.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#100).
+2026-07-06 08:51:36.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#101).
+2026-07-06 08:51:39.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#102).
+2026-07-06 08:51:40.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#103).
+2026-07-06 08:51:43.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#104).
+2026-07-06 08:51:52.777 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#105).
+2026-07-06 08:51:54.777 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#106).
+2026-07-06 08:51:56.779 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#107).
+2026-07-06 08:52:00.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#108).
+2026-07-06 08:52:02.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#109).
+2026-07-06 08:52:05.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#110).
+2026-07-06 08:52:12.777 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#111).
+2026-07-06 08:52:15.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#112).
+2026-07-06 08:52:17.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#113).
+2026-07-06 08:52:20.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#114).
+2026-07-06 08:52:22.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#115).
+2026-07-06 08:52:23.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#116).
+2026-07-06 08:52:25.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#117).
+2026-07-06 08:52:32.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#118).
+2026-07-06 08:52:34.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#119).
+2026-07-06 08:52:36.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#120).
+2026-07-06 08:52:40.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#121).
+2026-07-06 08:52:41.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#122).
+2026-07-06 08:52:43.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 37 ms
+
+Change detected, rebuilding site (#123).
+2026-07-06 08:52:49.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#124).
+2026-07-06 08:52:51.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 39 ms
+
+Change detected, rebuilding site (#125).
+2026-07-06 08:52:53.278 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#126).
+2026-07-06 08:52:55.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#127).
+2026-07-06 08:52:57.778 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#128).
+2026-07-06 08:53:00.277 +0700
+Source changed /1-worklog/1.2-week2/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#129).
+2026-07-06 08:54:17.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 36 ms
+
+Change detected, rebuilding site (#130).
+2026-07-06 08:54:20.279 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#131).
+2026-07-06 08:54:23.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#132).
+2026-07-06 08:54:25.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 61 ms
+
+Change detected, rebuilding site (#133).
+2026-07-06 08:54:27.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#134).
+2026-07-06 08:54:29.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#135).
+2026-07-06 08:54:35.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#136).
+2026-07-06 08:54:37.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#137).
+2026-07-06 08:54:39.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#138).
+2026-07-06 08:54:42.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#139).
+2026-07-06 08:54:43.277 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#140).
+2026-07-06 08:54:45.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#141).
+2026-07-06 08:54:47.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#142).
+2026-07-06 08:54:55.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#143).
+2026-07-06 08:54:57.777 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#144).
+2026-07-06 08:55:01.777 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#145).
+2026-07-06 08:55:03.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#146).
+2026-07-06 08:55:05.777 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#147).
+2026-07-06 08:55:12.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#148).
+2026-07-06 08:55:15.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#149).
+2026-07-06 08:55:18.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 61 ms
+
+Change detected, rebuilding site (#150).
+2026-07-06 08:55:19.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#151).
+2026-07-06 08:55:21.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#152).
+2026-07-06 08:55:22.777 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#153).
+2026-07-06 08:55:26.278 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#154).
+2026-07-06 08:55:28.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#155).
+2026-07-06 08:55:36.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#156).
+2026-07-06 08:55:38.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#157).
+2026-07-06 08:55:42.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#158).
+2026-07-06 08:55:44.778 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#159).
+2026-07-06 08:55:57.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#160).
+2026-07-06 08:55:58.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#161).
+2026-07-06 08:56:00.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#162).
+2026-07-06 08:56:02.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#163).
+2026-07-06 08:56:05.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#164).
+2026-07-06 08:56:07.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#165).
+2026-07-06 08:56:09.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 38 ms
+
+Change detected, rebuilding site (#166).
+2026-07-06 08:56:18.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#167).
+2026-07-06 08:56:20.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#168).
+2026-07-06 08:56:22.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#169).
+2026-07-06 08:56:25.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#170).
+2026-07-06 08:56:27.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#171).
+2026-07-06 08:56:28.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#172).
+2026-07-06 08:56:34.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#173).
+2026-07-06 08:56:36.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#174).
+2026-07-06 08:56:38.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#175).
+2026-07-06 08:56:41.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#176).
+2026-07-06 08:56:43.279 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#177).
+2026-07-06 08:56:44.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#178).
+2026-07-06 08:56:51.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#179).
+2026-07-06 08:56:53.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#180).
+2026-07-06 08:56:55.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#181).
+2026-07-06 08:56:58.779 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#182).
+2026-07-06 08:57:00.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#183).
+2026-07-06 08:57:02.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 67 ms
+
+Change detected, rebuilding site (#184).
+2026-07-06 08:57:08.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 67 ms
+
+Change detected, rebuilding site (#185).
+2026-07-06 08:57:09.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#186).
+2026-07-06 08:57:12.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#187).
+2026-07-06 08:57:15.777 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#188).
+2026-07-06 08:57:19.277 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#189).
+2026-07-06 08:57:21.778 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#190).
+2026-07-06 08:57:24.278 +0700
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#191).
+2026-07-06 08:58:27.777 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 78 ms
+
+Change detected, rebuilding site (#192).
+2026-07-06 08:58:29.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#193).
+2026-07-06 08:58:34.277 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#194).
+2026-07-06 08:58:36.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#195).
+2026-07-06 08:58:42.279 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#196).
+2026-07-06 08:58:45.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#197).
+2026-07-06 08:58:46.777 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#198).
+2026-07-06 08:58:55.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#199).
+2026-07-06 08:59:01.277 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#200).
+2026-07-06 08:59:03.777 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#201).
+2026-07-06 08:59:09.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#202).
+2026-07-06 08:59:10.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#203).
+2026-07-06 08:59:13.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 74 ms
+
+Change detected, rebuilding site (#204).
+2026-07-06 08:59:17.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#205).
+2026-07-06 08:59:19.278 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#206).
+2026-07-06 08:59:28.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 67 ms
+
+Change detected, rebuilding site (#207).
+2026-07-06 08:59:30.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#208).
+2026-07-06 08:59:33.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#209).
+2026-07-06 08:59:37.277 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#210).
+2026-07-06 08:59:39.276 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 73 ms
+
+Change detected, rebuilding site (#211).
+2026-07-06 08:59:41.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#212).
+2026-07-06 08:59:50.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#213).
+2026-07-06 08:59:52.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#214).
+2026-07-06 08:59:55.777 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#215).
+2026-07-06 08:59:56.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#216).
+2026-07-06 09:00:06.778 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#217).
+2026-07-06 09:00:10.778 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#218).
+2026-07-06 09:00:13.778 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#219).
+2026-07-06 09:00:15.278 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#220).
+2026-07-06 09:01:18.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#221).
+2026-07-06 09:01:20.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 97 ms
+
+Change detected, rebuilding site (#222).
+2026-07-06 09:01:22.279 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#223).
+2026-07-06 09:01:25.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#224).
+2026-07-06 09:01:26.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#225).
+2026-07-06 09:01:28.777 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 70 ms
+
+Change detected, rebuilding site (#226).
+2026-07-06 09:01:33.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#227).
+2026-07-06 09:01:35.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#228).
+2026-07-06 09:01:39.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#229).
+2026-07-06 09:01:41.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#230).
+2026-07-06 09:01:45.777 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#231).
+2026-07-06 09:01:48.277 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#232).
+2026-07-06 09:01:50.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 78 ms
+
+Change detected, rebuilding site (#233).
+2026-07-06 09:01:53.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#234).
+2026-07-06 09:01:59.277 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#235).
+2026-07-06 09:02:01.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#236).
+2026-07-06 09:02:05.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#237).
+2026-07-06 09:02:07.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#238).
+2026-07-06 09:02:15.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 78 ms
+
+Change detected, rebuilding site (#239).
+2026-07-06 09:02:18.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#240).
+2026-07-06 09:02:21.277 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#241).
+2026-07-06 09:03:35.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#242).
+2026-07-06 09:03:37.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 82 ms
+
+Change detected, rebuilding site (#243).
+2026-07-06 09:03:40.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#244).
+2026-07-06 09:03:41.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#245).
+2026-07-06 09:03:44.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#246).
+2026-07-06 09:03:49.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 83 ms
+
+Change detected, rebuilding site (#247).
+2026-07-06 09:03:50.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#248).
+2026-07-06 09:03:53.277 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 76 ms
+
+Change detected, rebuilding site (#249).
+2026-07-06 09:03:58.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 90 ms
+
+Change detected, rebuilding site (#250).
+2026-07-06 09:03:59.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#251).
+2026-07-06 09:04:01.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 56 ms
+
+Change detected, rebuilding site (#252).
+2026-07-06 09:04:08.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#253).
+2026-07-06 09:04:10.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 101 ms
+
+Change detected, rebuilding site (#254).
+2026-07-06 09:04:13.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 67 ms
+
+Change detected, rebuilding site (#255).
+2026-07-06 09:04:17.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#256).
+2026-07-06 09:04:24.277 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 81 ms
+
+Change detected, rebuilding site (#257).
+2026-07-06 09:04:27.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#258).
+2026-07-06 09:04:30.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#259).
+2026-07-06 09:04:33.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#260).
+2026-07-06 09:04:39.277 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 71 ms
+
+Change detected, rebuilding site (#261).
+2026-07-06 09:04:42.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 61 ms
+
+Change detected, rebuilding site (#262).
+2026-07-06 09:04:45.278 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 77 ms
+
+Change detected, rebuilding site (#263).
+2026-07-06 09:04:46.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 81 ms
+
+Change detected, rebuilding site (#264).
+2026-07-06 09:04:48.777 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 73 ms
+
+Change detected, rebuilding site (#265).
+2026-07-06 09:04:52.277 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#266).
+2026-07-06 09:04:54.779 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 72 ms
+
+Change detected, rebuilding site (#267).
+2026-07-06 09:07:46.278 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 80 ms
+
+Change detected, rebuilding site (#268).
+2026-07-06 09:07:48.278 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#269).
+2026-07-06 09:07:51.778 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 84 ms
+
+Change detected, rebuilding site (#270).
+2026-07-06 09:07:53.278 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 72 ms
+
+Change detected, rebuilding site (#271).
+2026-07-06 09:08:27.276 +0700
+Source changed /1-worklog/1.7-week7/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#272).
+2026-07-06 09:08:28.777 +0700
+Source changed /1-worklog/1.7-week7/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 87 ms
+
+Change detected, rebuilding site (#273).
+2026-07-06 09:08:37.281 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#274).
+2026-07-06 09:09:23.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 72 ms
+
+Change detected, rebuilding site (#275).
+2026-07-06 09:09:25.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 84 ms
+
+Change detected, rebuilding site (#276).
+2026-07-06 09:09:27.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 85 ms
+
+Change detected, rebuilding site (#277).
+2026-07-06 09:09:30.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#278).
+2026-07-06 09:09:31.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#279).
+2026-07-06 09:09:35.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#280).
+2026-07-06 09:09:37.277 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 69 ms
+
+Change detected, rebuilding site (#281).
+2026-07-06 09:09:40.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 70 ms
+
+Change detected, rebuilding site (#282).
+2026-07-06 09:09:42.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 90 ms
+
+Change detected, rebuilding site (#283).
+2026-07-06 09:09:47.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#284).
+2026-07-06 09:09:49.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 75 ms
+
+Change detected, rebuilding site (#285).
+2026-07-06 09:09:52.777 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 75 ms
+
+Change detected, rebuilding site (#286).
+2026-07-06 09:09:53.777 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 75 ms
+
+Change detected, rebuilding site (#287).
+2026-07-06 09:09:55.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#288).
+2026-07-06 09:10:00.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 58 ms
+
+Change detected, rebuilding site (#289).
+2026-07-06 09:10:02.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 86 ms
+
+Change detected, rebuilding site (#290).
+2026-07-06 09:10:03.778 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#291).
+2026-07-06 09:10:06.278 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 69 ms
+
+Change detected, rebuilding site (#292).
+2026-07-06 09:10:08.277 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 81 ms
+
+Change detected, rebuilding site (#293).
+2026-07-06 09:10:14.278 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 101 ms
+
+Change detected, rebuilding site (#294).
+2026-07-06 09:10:15.778 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 69 ms
+
+Change detected, rebuilding site (#295).
+2026-07-06 09:10:16.778 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#296).
+2026-07-06 09:10:18.778 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#297).
+2026-07-06 09:10:20.278 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 97 ms
+
+Change detected, rebuilding site (#298).
+2026-07-06 09:10:24.778 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#299).
+2026-07-06 09:10:27.778 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#300).
+2026-07-06 09:10:29.777 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#301).
+2026-07-06 09:10:31.777 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#302).
+2026-07-06 09:10:33.277 +0700
+Source changed /1-worklog/1.8-week8/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#303).
+2026-07-06 09:10:49.777 +0700
+Source changed /1-worklog/1.8-week8/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#304).
+2026-07-06 09:11:36.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#305).
+2026-07-06 09:11:38.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 86 ms
+
+Change detected, rebuilding site (#306).
+2026-07-06 09:11:41.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#307).
+2026-07-06 09:11:43.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#308).
+2026-07-06 09:11:46.279 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 76 ms
+
+Change detected, rebuilding site (#309).
+2026-07-06 09:11:50.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 74 ms
+
+Change detected, rebuilding site (#310).
+2026-07-06 09:11:52.277 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#311).
+2026-07-06 09:11:54.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#312).
+2026-07-06 09:12:00.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 91 ms
+
+Change detected, rebuilding site (#313).
+2026-07-06 09:12:31.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#314).
+2026-07-06 09:12:32.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#315).
+2026-07-06 09:12:35.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#316).
+2026-07-06 09:12:38.277 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#317).
+2026-07-06 09:12:41.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#318).
+2026-07-06 09:12:48.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 72 ms
+
+Change detected, rebuilding site (#319).
+2026-07-06 09:12:52.778 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 82 ms
+
+Change detected, rebuilding site (#320).
+2026-07-06 09:12:56.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 61 ms
+
+Change detected, rebuilding site (#321).
+2026-07-06 09:12:58.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 64 ms
+
+Change detected, rebuilding site (#322).
+2026-07-06 09:13:02.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#323).
+2026-07-06 09:13:04.277 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 84 ms
+
+Change detected, rebuilding site (#324).
+2026-07-06 09:13:06.779 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 72 ms
+
+Change detected, rebuilding site (#325).
+2026-07-06 09:13:10.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#326).
+2026-07-06 09:13:12.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 69 ms
+
+Change detected, rebuilding site (#327).
+2026-07-06 09:13:19.778 +0700
+Source changed /1-worklog/1.9-week9/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 71 ms
+
+Change detected, rebuilding site (#328).
+2026-07-06 09:14:10.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#329).
+2026-07-06 09:14:12.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#330).
+2026-07-06 09:14:18.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#331).
+2026-07-06 09:14:20.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 92 ms
+
+Change detected, rebuilding site (#332).
+2026-07-06 09:14:23.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#333).
+2026-07-06 09:14:28.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#334).
+2026-07-06 09:14:30.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#335).
+2026-07-06 09:14:33.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#336).
+2026-07-06 09:14:36.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#337).
+2026-07-06 09:14:40.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#338).
+2026-07-06 09:14:40.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 83 ms
+
+Change detected, rebuilding site (#339).
+2026-07-06 09:14:43.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#340).
+2026-07-06 09:14:46.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#341).
+2026-07-06 09:14:49.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#342).
+2026-07-06 09:14:54.779 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 85 ms
+
+Change detected, rebuilding site (#343).
+2026-07-06 09:14:57.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#344).
+2026-07-06 09:15:02.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 41 ms
+
+Change detected, rebuilding site (#345).
+2026-07-06 09:15:05.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 104 ms
+
+Change detected, rebuilding site (#346).
+2026-07-06 09:15:11.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#347).
+2026-07-06 09:15:13.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#348).
+2026-07-06 09:15:15.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#349).
+2026-07-06 09:15:17.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 69 ms
+
+Change detected, rebuilding site (#350).
+2026-07-06 09:15:54.278 +0700
+Source changed /1-worklog/1.11-week11
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#351).
+2026-07-06 09:15:54.780 +0700
+Source changed /1-worklog
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 121 ms
+
+Change detected, rebuilding site (#352).
+2026-07-06 09:16:02.278 +0700
+Source changed /1-worklog/1.12-week12
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#353).
+2026-07-06 09:16:02.778 +0700
+Source changed /1-worklog
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 92 ms
+
+Change detected, rebuilding site (#354).
+2026-07-06 09:18:26.779 +0700
+Source changed /1-worklog/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#355).
+2026-07-06 09:18:34.777 +0700
+Source changed /1-worklog/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#356).
+2026-07-06 09:44:16.799 +0700
+Source changed /1-worklog/1.3-week3/_index.md
+Source changed /1-worklog/1.3-week3/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 159 ms
+
+Change detected, rebuilding site (#357).
+2026-07-06 09:44:50.279 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 83 ms
+
+Change detected, rebuilding site (#358).
+2026-07-06 09:46:40.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#359).
+2026-07-06 09:46:55.277 +0700
+Source changed /1-worklog/1.5-week5/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#360).
+2026-07-06 09:47:51.778 +0700
+Source changed /1-worklog/1.6-week6/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 53 ms
+
+Change detected, rebuilding site (#361).
+2026-07-06 09:47:58.779 +0700
+Source changed /1-worklog/1.6-week6/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#362).
+2026-07-06 09:48:20.278 +0700
+Source changed /1-worklog/1.9-week9/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#363).
+2026-07-06 09:48:25.278 +0700
+Source changed /1-worklog/1.9-week9/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#364).
+2026-07-06 09:48:50.779 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#365).
+2026-07-06 09:49:03.780 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#366).
+2026-07-06 09:49:28.780 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 80 ms
+
+Change detected, rebuilding site (#367).
+2026-07-06 09:50:10.781 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#368).
+2026-07-06 10:02:56.300 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 137 ms
+
+Change detected, rebuilding site (#369).
+2026-07-06 10:03:07.779 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#370).
+2026-07-06 10:07:11.780 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#371).
+2026-07-06 10:07:14.278 +0700
+Source changed /1-worklog/1.4-week4/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#372).
+2026-07-06 10:07:23.778 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#373).
+2026-07-06 10:07:25.777 +0700
+Source changed /1-worklog/1.4-week4/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 86 ms
+
+Change detected, rebuilding site (#374).
+2026-07-06 10:15:19.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#375).
+2026-07-06 10:15:30.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 48 ms
+
+Change detected, rebuilding site (#376).
+2026-07-06 10:16:55.278 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 74 ms
+
+Change detected, rebuilding site (#377).
+2026-07-06 10:16:56.778 +0700
+Source changed /1-worklog/1.5-week5/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#378).
+2026-07-06 10:17:14.277 +0700
+Source changed /1-worklog/1.5-week5/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#379).
+2026-07-06 10:17:15.778 +0700
+Source changed /1-worklog/1.5-week5/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 77 ms
+
+Change detected, rebuilding site (#380).
+2026-07-06 10:17:44.278 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 47 ms
+
+Change detected, rebuilding site (#381).
+2026-07-06 10:17:46.277 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#382).
+2026-07-06 10:17:49.278 +0700
+Source changed /1-worklog/1.7-week7/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 50 ms
+
+Change detected, rebuilding site (#383).
+2026-07-06 10:17:57.778 +0700
+Source changed /1-worklog/1.7-week7/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 77 ms
+
+Change detected, rebuilding site (#384).
+2026-07-06 10:17:59.278 +0700
+Source changed /1-worklog/1.7-week7/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#385).
+2026-07-06 10:18:01.777 +0700
+Source changed /1-worklog/1.7-week7/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#386).
+2026-07-06 10:20:12.304 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 135 ms
+
+Change detected, rebuilding site (#387).
+2026-07-06 10:20:28.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 101 ms
+
+Change detected, rebuilding site (#388).
+2026-07-06 10:21:02.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 81 ms
+
+Change detected, rebuilding site (#389).
+2026-07-06 10:21:20.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#390).
+2026-07-06 10:21:35.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 88 ms
+
+Change detected, rebuilding site (#391).
+2026-07-06 10:21:40.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 49 ms
+
+Change detected, rebuilding site (#392).
+2026-07-06 10:21:50.777 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#393).
+2026-07-06 10:21:57.779 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#394).
+2026-07-06 10:22:19.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#395).
+2026-07-06 10:22:21.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 65 ms
+
+Change detected, rebuilding site (#396).
+2026-07-06 10:22:23.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#397).
+2026-07-06 10:23:59.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#398).
+2026-07-06 10:24:00.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 52 ms
+
+Change detected, rebuilding site (#399).
+2026-07-06 10:24:02.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#400).
+2026-07-06 10:24:03.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 88 ms
+
+Change detected, rebuilding site (#401).
+2026-07-06 10:24:04.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 75 ms
+
+Change detected, rebuilding site (#402).
+2026-07-06 10:24:05.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#403).
+2026-07-06 10:24:29.777 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#404).
+2026-07-06 10:24:35.777 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 59 ms
+
+Change detected, rebuilding site (#405).
+2026-07-06 10:24:49.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#406).
+2026-07-06 10:24:50.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 46 ms
+
+Change detected, rebuilding site (#407).
+2026-07-06 10:24:54.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#408).
+2026-07-06 10:25:30.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 40 ms
+
+Change detected, rebuilding site (#409).
+2026-07-06 10:25:31.278 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 43 ms
+
+Change detected, rebuilding site (#410).
+2026-07-06 10:25:33.277 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#411).
+2026-07-06 10:25:34.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#412).
+2026-07-06 10:25:37.778 +0700
+Source changed /1-worklog/1.10-week10/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 62 ms
+
+Change detected, rebuilding site (#413).
+2026-07-06 10:25:44.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 42 ms
+
+Change detected, rebuilding site (#414).
+2026-07-06 10:25:45.777 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 44 ms
+
+Change detected, rebuilding site (#415).
+2026-07-06 10:25:48.277 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 90 ms
+
+Change detected, rebuilding site (#416).
+2026-07-06 10:25:49.277 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 60 ms
+
+Change detected, rebuilding site (#417).
+2026-07-06 10:25:50.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#418).
+2026-07-06 10:25:54.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 55 ms
+
+Change detected, rebuilding site (#419).
+2026-07-06 10:25:55.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 45 ms
+
+Change detected, rebuilding site (#420).
+2026-07-06 10:26:06.778 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 81 ms
+
+Change detected, rebuilding site (#421).
+2026-07-06 10:27:51.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 68 ms
+
+Change detected, rebuilding site (#422).
+2026-07-06 10:27:52.278 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 54 ms
+
+Change detected, rebuilding site (#423).
+2026-07-06 10:53:35.809 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 160 ms
+
+Change detected, rebuilding site (#424).
+2026-07-06 10:53:36.281 +0700
+Source changed /1-worklog/1.10-week10/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 167 ms
+
+Change detected, rebuilding site (#425).
+2026-07-06 11:30:23.812 +0700
+Source changed /4-eventparticipated/4.2-event2
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 242 ms
+
+Change detected, rebuilding site (#426).
+2026-07-06 11:30:24.283 +0700
+Source changed /4-eventparticipated
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 120 ms
+
+Change detected, rebuilding site (#427).
+2026-07-06 11:32:01.278 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 77 ms
+
+Change detected, rebuilding site (#428).
+2026-07-06 11:32:06.779 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 93 ms
+
+Change detected, rebuilding site (#429).
+2026-07-06 11:32:12.278 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 95 ms
+
+Change detected, rebuilding site (#430).
+2026-07-06 11:32:16.778 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 79 ms
+
+Change detected, rebuilding site (#431).
+2026-07-06 11:32:18.278 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 57 ms
+
+Change detected, rebuilding site (#432).
+2026-07-06 11:32:19.779 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 82 ms
+
+Change detected, rebuilding site (#433).
+2026-07-06 11:32:24.777 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 80 ms
+
+Change detected, rebuilding site (#434).
+2026-07-06 11:33:42.277 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 51 ms
+
+Change detected, rebuilding site (#435).
+2026-07-06 11:33:45.777 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 66 ms
+
+Change detected, rebuilding site (#436).
+2026-07-06 11:33:48.778 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.vi.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 63 ms
+
+Change detected, rebuilding site (#437).
+2026-07-06 11:34:02.278 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 76 ms
+
+Change of Static files detected, rebuilding site (#438).
+2026-07-06 11:35:08.278 +0700
+Syncing \images\hinh3.jpg to \
+Syncing \images to \
+Syncing \images\hinh1.jpg to \
+Syncing \images\hinh2.jpg to \
+
+Change detected, rebuilding site (#439).
+2026-07-06 14:42:31.832 +0700
+Source changed /4-eventparticipated/4.1-event1/_index.md
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Total in 893 ms
