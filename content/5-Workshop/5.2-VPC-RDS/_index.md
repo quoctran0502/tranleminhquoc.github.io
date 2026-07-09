@@ -1,4 +1,4 @@
----
+﻿---
 title : "VPC and RDS SQL Server Configuration"
 date : 2024-01-01 
 weight : 2
@@ -29,7 +29,7 @@ In this section, we will configure the basic networking architecture on AWS by c
 
 <figure>
   <img src="/images/5-Workshop/5.2-VPC-RDS/image15.png" alt="Connectivity settings" style="max-width:100%;height:auto;" />
-  <figcaption><em>Connectivity and security settings</em></figcaption>
+  <figcaption><em>Private connectivity and security settings</em></figcaption>
 </figure>
 
 </div>
@@ -131,7 +131,7 @@ In this section, we will configure the basic networking architecture on AWS by c
 #### Step 6: Configure Connectivity Settings
 1. **Compute resource**: Select **Don’t connect to an EC2 compute resource**.
 2. **Virtual private cloud (VPC)**: Choose your newly created custom VPC: `caulongvui-vpc`.
-3. **Public access**: Select **Yes** (Required to assign a public IP address so your local development machine can connect to the database via SSMS).
+3. **Public access**: Select **No** (Keeps the RDS instance private so it is not directly exposed to the Internet).
 4. **VPC security group**: Choose **Choose existing** and select `caulongvui-rds-sg` (Make sure to remove the `default` security group from the list).
 5. Scroll down to the bottom and click **Create database**. The provisioning process takes approximately 5-10 minutes.
 
