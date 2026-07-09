@@ -1,4 +1,4 @@
-baseURL = "https://quoctran0502.github.io/tranleminhquoc/"
+baseURL = "https://quoctran0502.github.io/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
