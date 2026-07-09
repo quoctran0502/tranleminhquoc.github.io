@@ -1,6 +1,6 @@
 ﻿---
 title : "VPC and RDS SQL Server Configuration"
-date : 2024-01-01 
+date : 2024-01-01
 weight : 2
 chapter : false
 pre : " <b> 5.2. </b> "
@@ -28,8 +28,8 @@ In this section, we will configure the basic networking architecture on AWS by c
 </figure>
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image15.png" alt="Connectivity settings" style="max-width:100%;height:auto;" />
-  <figcaption><em>Private connectivity and security settings</em></figcaption>
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image15_new.png" alt="Connectivity settings" style="max-width:100%;height:auto;" />
+  <figcaption><em>Connectivity and security settings</em></figcaption>
 </figure>
 
 </div>
@@ -67,6 +67,7 @@ In this section, we will configure the basic networking architecture on AWS by c
 
 #### 3. Create Security Groups
 *We will create 3 independent Security Groups to isolate access traffic between the Load Balancer, EC2 Backend, and the RDS Database.*
+*The ALB security group is prepared here so it can be reused in the later deployment steps in sections 5.3 and 5.4.*
 
 ##### 3.1. Security Group for Application Load Balancer (`caulongvui-alb-sg`)
 1. Navigate to **VPC** -> **Security groups** -> click **Create security group**.
@@ -118,7 +119,7 @@ In this section, we will configure the basic networking architecture on AWS by c
 3. **Database management type**: Select **Amazon RDS**.
 4. **Edition**: Select **SQL Server Express Edition** (Lightweight database covered under the AWS Free Tier).
 5. **Engine version**: Select **SQL Server 2019** (or a newer release as required).
-6. **Templates**: Select **Sandbox** (Sets minimum resources to minimize operational costs).
+6. **Templates**: Select **Free tier** if your console still shows that option; if you are on a paid-plan console, the equivalent option is usually **Sandbox**.
 
 #### Step 4: Configure Credentials
 1. **DB instance identifier**: Name your database instance, e.g., `caulongvui-db`.
@@ -126,12 +127,12 @@ In this section, we will configure the basic networking architecture on AWS by c
 3. **Master password**: Enter your secure password.
 
 #### Step 5: Configure Instance & Storage
-1. **DB instance class**: Select `db.t3.small` (or the lowest available class).
+1. **DB instance class**: Select `db.t3.micro` if you want to stay aligned with Free Tier; choosing a larger class such as `db.t3.small` may incur additional charges.
 
 #### Step 6: Configure Connectivity Settings
 1. **Compute resource**: Select **Don’t connect to an EC2 compute resource**.
 2. **Virtual private cloud (VPC)**: Choose your newly created custom VPC: `caulongvui-vpc`.
-3. **Public access**: Select **No** (Keeps the RDS instance private so it is not directly exposed to the Internet).
+3. **Public access**: Select **Yes** if you need to connect directly from your local machine using SSMS. If you only plan to connect through EC2/SSH tunneling, choose **No** for better security.
 4. **VPC security group**: Choose **Choose existing** and select `caulongvui-rds-sg` (Make sure to remove the `default` security group from the list).
 5. Scroll down to the bottom and click **Create database**. The provisioning process takes approximately 5-10 minutes.
 

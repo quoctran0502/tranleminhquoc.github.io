@@ -1,6 +1,6 @@
 ---
 title: "Blog 2 - Preventing Data Exfiltration on AWS Using Egress Controls for Cloud Workloads"
-date: 2024-01-02
+date: 2024-01-01
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "

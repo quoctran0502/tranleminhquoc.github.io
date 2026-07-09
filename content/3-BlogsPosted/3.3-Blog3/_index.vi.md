@@ -1,6 +1,6 @@
 ---
 title: "Blog 3 - Tự động hóa quản lý danh tính và tăng cường bảo mật với AWS Directory Service APIs"
-date: 2024-01-03
+date: 2024-01-01
 weight: 3
 chapter: false
 pre: " <b> 3.3. </b> "

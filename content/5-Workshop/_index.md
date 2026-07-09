@@ -20,10 +20,6 @@ The system is architected to align with cloud design best practices for performa
 - **Database Management**: Provision a fully managed **Amazon RDS SQL Server** database instance nested inside private subnets.
 - **Transactional Notifications**: Trigger automated notification emails using **Amazon SES**.
 
-#### Architecture Snapshots
-
-![CauLongVui AWS architecture](/images/2-Proposal/caulongvui-architecture.svg)
-
 #### Content
 
 1. [AWS Cognito Configuration](5.1-AWS-Cognito/)
