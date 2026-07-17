@@ -12,7 +12,7 @@ pre: " <b> 5. </b> "
 
 Trong chuỗi bài thực hành này, chúng ta sẽ xây dựng và triển khai một hệ thống web **Fullstack** gồm Frontend tĩnh, Backend Spring Boot và cơ sở dữ liệu SQL Server trên nền tảng **Amazon Web Services (AWS)**.
 
-* **Trang web Demo (CauLongVui)**: [https://d33wcfjdygo2at.cloudfront.net/](https://d33wcfjdygo2at.cloudfront.net/)
+* **Demo Web (CauLongVui)**: [https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz](https://drive.google.com/drive/u/0/folders/1XI1mu_dUN5vNOfi7s5rXoBk4oP7qKwcz)
 
 Hệ thống được thiết kế theo các nguyên tắc tốt nhất về hiệu năng, khả năng mở rộng, bảo mật và tính sẵn sàng cao:
 - **Identity & Access Management**: Tích hợp **AWS Cognito** để đăng nhập liên kết với Google OAuth.
