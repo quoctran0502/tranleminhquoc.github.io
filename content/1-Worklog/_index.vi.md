@@ -25,3 +25,7 @@ pre: " <b> 1. </b> "
 **Tuần 9:** [Thực hành Docker và nghiên cứu giải pháp quản lý danh tính trên AWS](1.9-week9/)
 
 **Tuần 10:** [Ôn tập, quản lý và vận hành dịch vụ AWS](1.10-week10/)
+
+**Tuần 11:** [Clone Template Workshop và tiếp tục thực hiện dự án](1.11-week11/)
+
+**Tuần 12:** [Viết báo cáo thực tập và triển khai dự án lên AWS](1.12-week12/)

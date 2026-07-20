@@ -25,3 +25,7 @@ pre: " <b> 1. </b> "
 **Week 9:** [Hands-on Practice with Docker and AWS Identity Management Solutions](1.9-week9/)
 
 **Week 10:** [Review, Management, and Operations of AWS Services](1.10-week10/)
+
+**Week 11:** [Clone Workshop Template and Continue Project Development](1.11-week11/)
+
+**Week 12:** [Write Internship Report and Successfully Deploy Web Application](1.12-week12/)
